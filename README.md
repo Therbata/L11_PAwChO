@@ -21,7 +21,7 @@ Uruchomienie trzech kontenerów z serwerem `nginx` (`web1`, `web2`, `web3`) z ko
 <html>
   <head><title>web1</title></head>
   <body>
-    <h1>Lab11 – Jan Kowalski – web1</h1>
+    <h1>Lab11 – Jakub Kramek – web1</h1>
   </body>
 </html>
 ```
@@ -31,7 +31,7 @@ Uruchomienie trzech kontenerów z serwerem `nginx` (`web1`, `web2`, `web3`) z ko
 <html>
   <head><title>web2</title></head>
   <body>
-    <h1>Lab11 – Jan Kowalski – web2</h1>
+    <h1>Lab11 – Jakub Kramek – web2</h1>
   </body>
 </html>
 ```
@@ -41,7 +41,7 @@ Uruchomienie trzech kontenerów z serwerem `nginx` (`web1`, `web2`, `web3`) z ko
 <html>
   <head><title>web3</title></head>
   <body>
-    <h1>Lab11 – Jan Kowalski – web3</h1>
+    <h1>Lab11 – Jakuba Kramek – web3</h1>
   </body>
 </html>
 ```
