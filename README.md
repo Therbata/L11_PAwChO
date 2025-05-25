@@ -14,27 +14,6 @@ Uruchomienie trzech kontenerów z serwerem `nginx` (`web1`, `web2`, `web3`) z ko
 - Każdy kontener zapisuje logi do dedykowanego katalogu `~/lab11/logs/`, który jest bind mountem z hosta.
 - Strony HTML zamontowane w trybie `read-only`.
 
----
-
-##Struktura katalogów
-
-```
-~/lab11/
-├── html/
-│   ├── web1/
-│   │   └── index.html
-│   ├── web2/
-│   │   └── index.html
-│   └── web3/
-│       └── index.html
-└── logs/
-    ├── web1/
-    ├── web2/
-    └── web3/
-```
-
----
-
 ## 📝 Zawartość plików `index.html`
 
 ### `~/lab11/html/web1/index.html`
@@ -74,6 +53,10 @@ Uruchomienie trzech kontenerów z serwerem `nginx` (`web1`, `web2`, `web3`) z ko
 ### Utworzenie sieci mostkowej
 ```bash
 docker network create --driver bridge lab11net
+```
+### Wynik komendy:
+```bash
+ae226a7c32786fcefbdf22d08edaa935b70c7b00c06c911c9be1d2b32d077895
 ```
 
 ### Uruchomienie kontenerów
