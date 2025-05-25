@@ -2,7 +2,7 @@
 # Laboratorium 11 – Programowanie Aplikacji w Chmurze Obliczeniowej
 
 
-**Autor:** Jakub Kramek  
+**Autor:** Jakub Kacper Kramek  
 
 ---
 
