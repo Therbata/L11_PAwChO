@@ -3,7 +3,7 @@
 
 
 **Autor:** Jakub Kacper Kramek  
-*Numer albumu* s99594
+*Numer albumu* s9959  
 *Grupa* 6/8
 ---
 
