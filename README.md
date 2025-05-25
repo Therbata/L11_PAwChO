@@ -3,8 +3,8 @@
 
 
 **Autor:** Jakub Kacper Kramek  
-**Numer albumu** s99594
-**Grupa** 6/8
+*Numer albumu* s99594
+*Grupa* 6/8
 ---
 
 ##Cel zadania
